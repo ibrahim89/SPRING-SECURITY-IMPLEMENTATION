@@ -1,0 +1,5 @@
+com\igenesys\springsecurity\config\SecurityConfig.class
+com\igenesys\springsecurity\config\AppConfig.class
+com\igenesys\springsecurity\config\SpringSecurityInitializer.class
+com\igenesys\springsecurity\config\SpringMvcInitializer.class
+com\igenesys\springsecurity\conroller\HomeController.class
