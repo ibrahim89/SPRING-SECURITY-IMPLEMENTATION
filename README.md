@@ -1,8 +1,7 @@
 # SPRING-SECURITY-IMPLEMENTATION
 Annotation Based Spring Security Implementation Using in-memory and database as well
 
-## 1. In Memory Authentication.
-## 2. Database Based Authentication.
+## 1. Database Based Authentication.
 # Technologies used.
 -----------------
 1.Spring 3.2.8.RELEASE
