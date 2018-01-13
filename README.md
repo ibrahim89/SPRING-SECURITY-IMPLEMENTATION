@@ -3,15 +3,16 @@ Annotation Based Spring Security Implementation Using in-memory and database as 
 
 ## 1. Database Based Authentication.
 # Technologies used.
------------------
-1.Spring 3.2.8.RELEASE
-2.Spring Security 3.2.3.RELEASE
-3.Spring JDBC 3.2.3.RELEASE
-4.Eclipse 4.2
-5.JDK 1.8
-6.Maven 3.1
-7.Tomcat 9 (Servlet 3.x)
-8.Postgres version: 42.1.1
+--------------------------------------
+
+1.Spring 3.2.8.RELEASE.
+2.Spring Security 3.2.3.RELEASE.
+3.Spring JDBC 3.2.3.RELEASE.
+4.Eclipse 4.2.
+5.JDK 1.8.
+6.Maven 3.1.
+7.Tomcat 9 (Servlet 3.x).
+8.Postgres version: 42.1.1.
 
 ----------------------------
 ## 1. Database authentication, using Spring-JDBC and Postgresql.
